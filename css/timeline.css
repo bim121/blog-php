@@ -1,0 +1,70 @@
+body{
+    font-family: tahoma;
+    background-color: #d0d8e4;
+}
+
+.post_button{
+    float: right;
+    background-color: #405d9b;
+    border: none;
+    color: white;
+    padding: 4px;
+    font-size: 14px;
+    border-radius: 2px;
+    width: 50px;
+}
+
+.post_bar{
+    margin-top: 20px;
+    background-color: white;
+    padding: 10px;
+}
+
+.post{
+    padding: 4px;
+    font-size: 13px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.logout__button{
+    font-size: 11px; 
+    float:right; 
+    margin:10px; 
+    color: white;
+}
+
+.header{
+    width: 800px;
+    margin: auto; 
+    font-size: 30px;
+}
+
+.blue_bar{
+    height: 50px;
+    background-color: #405d9b;
+    color: #9ddfeb;
+}
+
+.container__change__image{
+    width: 800px; 
+    margin: auto; 
+    min-height: 400px;
+}
+
+.content{
+    display: flex;
+}
+
+.form__change__image{
+    min-height: 400px; 
+    flex: 2.5; 
+    padding: 20px; 
+    padding-right: 0px;
+}
+
+.form__control{
+    border: solid thin #aaa; 
+    padding: 10px; 
+    background-color: white;
+}
